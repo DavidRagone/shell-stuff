@@ -1,5 +1,9 @@
 # bin/sh
 
+# TODO - look into
+#  [1] https://gist.github.com/Mongey/a10f0bfc44dd7f345e12
+#  [2] http://stackoverflow.com/questions/5447278/bash-scripts-with-tmux-to-launch-a-4-paned-window
+
 # TODO - make this easily useable via command line (e.g., `init shell-stuff` to
 #   load this repo
 
